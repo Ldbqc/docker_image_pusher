@@ -1,1 +1,1 @@
-wireshark:latest
+elasticdump/elasticsearch-dump:latest
