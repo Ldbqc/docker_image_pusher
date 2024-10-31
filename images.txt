@@ -1,1 +1,1 @@
-elasticdump/elasticsearch-dump:latest
+openresty:latest
