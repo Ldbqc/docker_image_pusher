@@ -1,1 +1,1 @@
-clickhouse/clickhouse-server:22.8.14.53
+taskrabbit/elasticsearch-dump:latest 
