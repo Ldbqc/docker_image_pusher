@@ -1,1 +1,1 @@
-taskrabbit/elasticsearch-dump:latest 
+matts966/alphasql:latest
